@@ -60,6 +60,7 @@ This repo idea was replicated from [PittCSC](https://github.com/pittcsc) with a 
 |[NYC Cyber Command](https://docs.google.com/forms/d/e/1FAIpQLSc2l19kkEt8guRkVdBkNc_JaxH7tkFzHVAgQYndIOJ4wJ_YGw/viewform)| NYC | CERT Analyst Intern |
 |[IBM](https://careers.ibm.com/job/13637783/x-force-red-penetration-tester-intern-summer-2022-austin-tx/?codes=IBM_CareerWebSite)|Austin, Texas| X-Force Red Pentester |
 |[IBM](https://careers.ibm.com/job/13646066/cybersecurity-consultant-intern-summer-2022-remote/?codes=IBM_CareerWebSite)| MA – Cambridge, TX – Austin or GA – Sandy Springs | Cybersecurity Consultant |
+|[Foreign Affairs Information Technology Fellowship](https://www.faitfellowship.org/fellowship/)| Washington, D.C. | Various Roles |
 |[]()| 
 |[]()| 
 |[]()| 
