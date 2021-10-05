@@ -61,7 +61,7 @@ This repo idea was replicated from [PittCSC](https://github.com/pittcsc) with a 
 |[IBM](https://careers.ibm.com/job/13637783/x-force-red-penetration-tester-intern-summer-2022-austin-tx/?codes=IBM_CareerWebSite)|Austin, Texas| X-Force Red Pentester |
 |[IBM](https://careers.ibm.com/job/13646066/cybersecurity-consultant-intern-summer-2022-remote/?codes=IBM_CareerWebSite)| MA – Cambridge, TX – Austin or GA – Sandy Springs | Cybersecurity Consultant |
 |[Foreign Affairs Information Technology Fellowship](https://www.faitfellowship.org/fellowship/)| Washington, D.C. | Various Roles |
-|[]()| 
+|[General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2022-Summer-Engineering-Intern-GM-Defense_JR-000056803)| Milford, Michigan | 2022-Summer Engineering Intern GM Defense | For Mechanical Engineering and Electrical Engineering majors. |
 |[]()| 
 |[]()| 
 
